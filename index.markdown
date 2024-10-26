@@ -1,7 +1,12 @@
 # Welcome to my portfolio!
 
 # About Me
-I'm Jinal Patel. I'm student at Humber college. I'm learning the course of *Web Development* at Humber College. I know the front-end languages like **HTML**, **CSS** and **JavaScript**.
+I'm Jinal Patel. I'm student at Humber college. I'm learning the course of **Web Development** at Humber College. This is my second course. My first course was about **Big Data Analytics**.
+
+# Skills
+- HTML
+- CSS
+- JavaScript
 
 # Assignments
 View my assignments 
@@ -13,6 +18,8 @@ View my assignments
 
 # Contact Me
 - [https://www.linkedin.com/in/jinalpatel1812/]
+
+[Return to Homne page](https://github.com/Coder-Jinal/Markdown-Portfolio.git) | [Contact me](https://www.linkedin.com/in/jinalpatel1812/)
 
 
 

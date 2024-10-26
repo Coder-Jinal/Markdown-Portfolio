@@ -10,4 +10,4 @@ This assignment demonstrate the concept of logical expressions, operators, and c
 
 - Repo Link (https://github.com/Coder-Jinal/C-Sharp-Assignment-2.git)
 
-Return to Home (https://github.com/Coder-Jinal/Markdown-Portfolio.git) 
+[Return to Home](https://github.com/Coder-Jinal/Markdown-Portfolio.git) | [Contact me](https://www.linkedin.com/in/jinalpatel1812/)
