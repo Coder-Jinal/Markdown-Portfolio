@@ -17,7 +17,7 @@ View my assignments
 ![Campus](https://ecosystem-energy.com/wp-content/uploads/2023/04/Humber_College-1.jpg)
 
 # Contact Me
-- [https://www.linkedin.com/in/jinalpatel1812/]
+- [Jinal Patel](https://www.linkedin.com/in/jinalpatel1812/)
 
 [Return to Homne page](https://github.com/Coder-Jinal/Markdown-Portfolio.git) | [Contact me](https://www.linkedin.com/in/jinalpatel1812/)
 
